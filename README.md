@@ -63,6 +63,18 @@ Lesson (XX) Topic Name
 - sprintf / sscanf
 - Statistics
 - Find & replace logic
+ 📚 Course Reference & Acknowledgment
+
+This repository is based primarily on the **C Programming course by Gammal Tech**, which serves as my **main learning reference**.
+
+I would like to thank the course creators for the structured content and clear explanations.
+
+🔗 Course links:
+- https://new.gammal.tech/course/c-programming  
+- https://new.gammal.tech/courses  
+
+All exercises here are solved independently as part of my personal learning journey.
+
 
 
  🧠 Learning Method
